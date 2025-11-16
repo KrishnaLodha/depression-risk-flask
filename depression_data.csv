@@ -1,0 +1,104 @@
+ID;Name;Gender;Age;Year;Smoking Status;Sleep Pattern?;Physical Activity;Work Load;Screen time;Alcohol Consumption?;Dietary Habits;History of Mental illness;History of Substance Abuse;Family History of Depression;Chronic Medical Condition;How often do you hang out;Homesickness;Do you feel isolated or lonely even when you're surrounded by people;Have you ever sought professional help for mental health issues;How often do you talk about your mental health with other people?
+1;Aditi Ghosh;Female;19;2;Non-Smoker;Good;Moderate;Moderate;High;Never;Moderate;No;No;Yes;No;Daily;Yes;Maybe;No;Rarely
+2;Priyam Shree;Male;21;4;Non-Smoker;Poor;Moderate;High;High;High;Moderate;No;Yes;Yes;Yes;Weekly;No;Yes;Yes;Never
+3;Deepa;Female;18;2;Non-Smoker;Poor;Moderate;High;High;Never;Moderate;Yes;No;No;No;Never;Yes;Yes;No;Rarely
+4;Lavina Peter ;Female;20;2;Non-Smoker;Good;Moderate;High;High;Low;Moderate;No;No;No;No;Daily;No;No;No;Rarely
+5;Sharanya;Female;34;1;Non-Smoker;Good;Sedentary;High;High;Never;Moderate;No;No;Yes;No;Weekly;Yes;No;No;Regularly
+6;Rishik;Male;20;2;Non-Smoker;Good;Moderate;Moderate;High;Never;Healthy;No;No;No;No;Never;No;Yes;No;Rarely
+7;Parneet kaur;Female;18;2;Non-Smoker;Poor;Sedentary;High;High;Never;Unhealthy;No;No;No;No;Daily;Yes;Yes;No;Never
+8;Suroshree Das ;Female;19;2;Non-Smoker;Poor;Moderate;Moderate;High;Never;Healthy;No;No;No;Yes;Weekly;No;Maybe;No;Rarely
+9;Shreya Pathak ;Female;19;2;Non-Smoker;Poor;Moderate;High;High;Never;Moderate;No;No;No;No;Weekly;No;Yes;No;Never
+10;Kashish ;Female;19;1;Non-Smoker;Fair;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Daily;No;Maybe;No;Rarely
+11;Kabir Gupta ;Male;19;1;Non-Smoker;Good;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Never
+12;Ratna tiwari;Male;19;2;Non-Smoker;Good;Sedentary;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;Yes;Yes;No;Never
+13;Aditya Prasad ;Male;20;2;Non-Smoker;Fair;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Weekly;Yes;Yes;No;Rarely
+14;Shruti Raj;Female;19;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;Yes;Maybe;No;Never
+15;Sayan Ghosh ;Male;19;2;Non-Smoker;Fair;Moderate;High;Moderate;Never;Moderate;No;No;No;No;Weekly;No;Maybe;No;Never
+16;Narayan ;Male;19;1;Non-Smoker;Poor;Sedentary;High;High;Never;Moderate;No;No;No;No;Weekly;No;Maybe;No;Rarely
+17;Arti;Female;42;4;Non-Smoker;Fair;Moderate;High;High;Never;Moderate;No;No;No;Yes;Weekly;Yes;No;No;Regularly
+18;H;Male;18;2;Non-Smoker;Fair;Sedentary;Moderate;High;Never;Healthy;No;No;No;Yes;Daily;Yes;Yes;Yes;Rarely
+19;Kriti;Female;19;1;Non-Smoker;Fair;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;Yes;No;No;Rarely
+20;Abhishek Kumar Singh ;Male;21;2;Non-Smoker;Poor;Moderate;High;High;Low;Moderate;No;No;Yes;No;Never;No;Yes;No;Never
+21;Chinmay sahu ;Male;19;2;Non-Smoker;Good;Active;Moderate;High;Never;Healthy;No;No;No;No;Never;No;Maybe;No;Rarely
+22;Abhishek mishra;Male;18;2;Non-Smoker;Good;Sedentary;Moderate;High;Never;Moderate;No;No;No;No;Weekly;Yes;Maybe;No;Never
+23;Shiwank Kumar;Male;19;2;Non-Smoker;Good;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Never
+24;Krishna Lodha;Male;19;2;Non-Smoker;Fair;Active;High;High;Never;Healthy;No;No;No;No;Daily;No;Maybe;No;Regularly
+25;Thomas Mathew;Male;18;2;Non-Smoker;Good;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Daily;No;No;No;Never
+26;Abhinav Kumar Choudhary;Male;20;2;Non-Smoker;Good;Moderate;High;High;Never;Moderate;No;No;No;No;Daily;No;No;No;Never
+27;Aadarsh Jaiswal;Male;20;2;Non-Smoker;Good;Sedentary;High;Moderate;Never;Moderate;No;No;No;No;Never;Yes;Yes;Yes;Rarely
+28;Tanisha Ghosh ;Female;19;2;Non-Smoker;Poor;Moderate;High;High;Never;Moderate;No;No;No;No;Weekly;Yes;No;No;Never
+29;Atharva Khismatrao ;Male;18;2;Non-Smoker;Poor;Active;Moderate;High;Never;Unhealthy;No;No;No;No;Daily;No;No;No;Rarely
+30;Srtk - 97;Male;20;2;Non-Smoker;Fair;Sedentary;Moderate;High;Never;Moderate;No;No;Yes;No;Weekly;No;No;No;Rarely
+31;Sromona Mukherjee ;Female;25;4;Former;Fair;Sedentary;Moderate;High;Low;Unhealthy;No;No;No;No;Daily;No;No;No;Regularly
+32;Shrimi;Female;19;2;Non-Smoker;Fair;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Never;Yes;Maybe;No;Rarely
+33;Bhavya Suman ;Female;20;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Healthy;No;No;No;No;Weekly;No;Yes;Yes;Regularly
+34;Arnav Basu ;Male;19;1;Non-Smoker;Poor;Active;High;High;Low;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+35;Shirin Gupta;Female;19;2;Smoker;Poor;Moderate;High;High;High;Unhealthy;No;Yes;Yes;Yes;Daily;No;No;No;Never
+36;Amresh kant ;Male;19;2;Non-Smoker;Fair;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Weekly;No;Yes;No;Rarely
+37;Aryaneel Bhaduri ;Male;19;2;Non-Smoker;Poor;Moderate;High;High;Never;Unhealthy;No;No;No;No;Daily;Yes;Yes;No;Never
+38;Hasuna Ikehata;Female;20;2;Non-Smoker;Fair;Moderate;High;High;Never;Unhealthy;No;No;Yes;No;Daily;No;No;No;Rarely
+39;Soumangshu Prakash Mukherjee ;Male;57;2;Non-Smoker;Good;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Never;Yes;No;No;Rarely
+40;Srishti;Female;19;2;Non-Smoker;Good;Moderate;Moderate;Moderate;Never;Moderate;Yes;No;No;No;Weekly;No;Maybe;No;Regularly
+41;Prachi;Female;19;2;Non-Smoker;Good;Active;High;High;Never;Moderate;No;No;No;No;Never;No;Yes;No;Rarely
+42;Vanshika;Female;20;2;Non-Smoker;Fair;Moderate;High;High;Low;Healthy;No;No;No;No;Weekly;No;No;No;Rarely
+43;Yash;Male;19;2;Smoker;Poor;Moderate;High;Moderate;Moderate;Unhealthy;Yes;Yes;Yes;Yes;Never;Yes;Yes;No;Rarely
+44;Dhruv ;Male;20;2;Non-Smoker;Fair;Moderate;High;Moderate;Never;Moderate;Yes;No;No;Yes;Daily;No;Maybe;Yes;Rarely
+45;Aastha Tarco ;Female;19;2;Non-Smoker;Poor;Sedentary;High;High;Never;Moderate;No;No;No;No;Never;Yes;Yes;No;Regularly
+46;Dharun Prakash;Male;18;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Never;Yes;Yes;Yes;Rarely
+47;sristi banik;Female;19;2;Non-Smoker;Poor;Sedentary;High;Moderate;Never;Unhealthy;Yes;Yes;Yes;No;Never;No;Yes;Yes;Never
+48;Harsh Kumar;Male;21;2;Non-Smoker;Good;Sedentary;High;High;Never;Moderate;No;No;No;No;Never;No;No;No;Never
+49;Karthikeya reddy D ;Male;18;2;Non-Smoker;Poor;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Never;No;Maybe;No;Regularly
+50;Aron J Marokey;Male;18;2;Non-Smoker;Good;Active;Moderate;High;Never;Moderate;No;No;No;No;Daily;Yes;Yes;No;Rarely
+51;Pranav Ranjan ;Male;18;2;Non-Smoker;Fair;Moderate;High;High;Never;Unhealthy;No;No;No;No;Weekly;No;No;No;Never
+52;Vanjarapu Pravallika ;Female;19;2;Non-Smoker;Good;Active;Moderate;High;Never;Moderate;No;No;No;No;Daily;Yes;Yes;No;Never
+53;Tejaswi ;Male;20;2;Non-Smoker;Good;Moderate;Moderate;Moderate;Never;Healthy;No;No;No;No;Daily;No;No;No;Never
+54;Thorani;Female;18;2;Non-Smoker;Poor;Moderate;Moderate;Moderate;Never;Moderate;Yes;Yes;Yes;No;Weekly;No;Yes;Yes;Rarely
+55;VajraSiddhant Pathak;Male;20;2;Non-Smoker;Poor;Sedentary;High;Moderate;Never;Moderate;No;No;No;No;Daily;No;No;No;Never
+56;Athish;Male;18;2;Non-Smoker;Poor;Moderate;High;High;Never;Healthy;No;No;No;No;Never;No;Maybe;No;Rarely
+57;Parneet kaur;Female;18;2;Non-Smoker;Good;Sedentary;Moderate;High;Never;Unhealthy;Yes;No;No;No;Daily;Yes;Yes;No;Never
+58;G.Kaneesh;Male;18;2;Non-Smoker;Poor;Sedentary;High;High;Never;Healthy;No;No;No;No;Never;Yes;Yes;Yes;Never
+59;Shruti Raj;Female;19;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;Yes;No;No;Never
+60;Sneha Trivedi ;Female;19;2;Non-Smoker;Good;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;Maybe;No;Rarely
+61;Harsh Trivedi ;Male;20;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Never;No;Maybe;No;Never
+62;Anonymous ;Male;18;3;Non-Smoker;Fair;Moderate;High;High;Never;Moderate;No;No;No;No;Weekly;Yes;Yes;No;Never
+63;J Harshith ;Male;19;2;Non-Smoker;Poor;Moderate;High;High;Never;Moderate;No;No;No;No;Never;Yes;Maybe;Yes;Rarely
+64;KRISHNAPRIYA V NAIR ;Female;19;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;Maybe;No;Rarely
+65;KRISHNAPRIYA V NAIR ;Female;19;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;Maybe;No;Rarely
+66;Rasmil Mohammed ;Male;18;2;Non-Smoker;Fair;Moderate;Moderate;High;Never;Healthy;No;No;No;No;Weekly;Yes;Maybe;No;Rarely
+67;Shreya ;Female;19;2;Non-Smoker;Poor;Moderate;High;High;Never;Moderate;No;No;No;No;Weekly;No;Yes;No;Never
+68;Priyanshu Shekhar Behera;Male;20;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+69;Vats Alwadhi;Male;19;2;Non-Smoker;Fair;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Never;No;Maybe;No;Rarely
+70;Vedant Modi;Male;19;2;Non-Smoker;Good;Moderate;High;High;Never;Healthy;No;No;No;No;Daily;No;No;No;Rarely
+71;Jathin Kodali;Male;18;2;Non-Smoker;Poor;Moderate;High;High;Never;Unhealthy;No;No;No;No;Daily;No;No;No;Rarely
+72;Krish Sati ;Male;18;2;Non-Smoker;Good;Sedentary;Moderate;Moderate;Never;Unhealthy;No;No;No;No;Weekly;No;Maybe;No;Rarely
+73;Soneesh;Male;18;2;Non-Smoker;Fair;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+74;Prasad Patil ;Male;19;2;Non-Smoker;Poor;Sedentary;High;High;Moderate;Moderate;No;No;No;No;Weekly;No;Maybe;No;Never
+75;Anish;Male;19;2;Non-Smoker;Poor;Active;High;Moderate;Never;Healthy;No;No;No;No;Weekly;No;Maybe;No;Rarely
+76;Rishik ;Male;20;2;Non-Smoker;Good;Sedentary;Moderate;Moderate;Never;Healthy;No;No;No;No;Never;No;Yes;No;Rarely
+77;V Naga Preetam ;Male;18;2;Non-Smoker;Good;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+78;Abhijeet Dwivedi ;Male;20;2;Non-Smoker;Poor;Active;Moderate;Moderate;Never;Moderate;No;No;No;No;Never;No;Maybe;No;Never
+79;Roopa;Female;19;2;Non-Smoker;Good;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Never;No;Maybe;No;Never
+80;Aryan Nair;Male;20;2;Non-Smoker;Good;Sedentary;High;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Regularly
+81;Sriram Nagendra ;Male;19;2;Non-Smoker;Fair;Sedentary;High;High;Never;Moderate;No;No;No;No;Weekly;No;Maybe;No;Regularly
+82;VK DUSHYANTH REDDY ;Male;18;2;Non-Smoker;Fair;Moderate;High;High;Never;Healthy;No;No;No;No;Weekly;No;No;No;Never
+83;Shaik Bhaba Rehman Akram ;Male;19;2;Non-Smoker;Good;Active;Moderate;Moderate;Never;Healthy;Yes;No;No;No;Weekly;Yes;Maybe;Yes;Rarely
+84;Aditya Chebrolu;Male;19;2;Non-Smoker;Poor;Sedentary;Moderate;High;Never;Moderate;No;No;No;No;Weekly;Yes;Yes;No;Rarely
+85;M.V.S.Rahul;Male;18;2;Non-Smoker;Good;Sedentary;Moderate;High;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+86;Jamisaikowshik;Male;18;2;Non-Smoker;Good;Active;High;Moderate;Never;Moderate;No;No;No;No;Never;No;No;No;Never
+87;karthikeyan pandita;Male;19;2;Non-Smoker;Good;Moderate;Moderate;Moderate;Never;Healthy;No;No;No;No;Daily;No;No;No;Rarely
+88;Sushil kuamar M;Male;18;2;Non-Smoker;Good;Sedentary;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Never
+89;CH Shivangi ;Female;19;2;Non-Smoker;Poor;Moderate;High;High;Never;Moderate;No;No;No;Yes;Weekly;Yes;Yes;No;Never
+90;Pratik Raj ;Male;18;2;Smoker;Poor;Moderate;Moderate;High;Moderate;Moderate;Yes;No;No;Yes;Weekly;Yes;Maybe;Yes;Rarely
+91;G Srujan sai;Male;19;2;Non-Smoker;Fair;Active;High;High;Never;Moderate;Yes;No;No;No;Weekly;No;Maybe;No;Never
+92;Haripriya Singh ;Female;19;2;Non-Smoker;Good;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+93;Abhilove Goyal;Male;19;2;Non-Smoker;Fair;Active;Moderate;High;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+94;N chethan krishna;Male;18;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Healthy;No;No;No;No;Weekly;No;No;No;Never
+95;Rishik;Male;20;2;Non-Smoker;Good;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Never;No;Yes;No;Rarely
+96;Mithun Prabhu;Male;18;2;Non-Smoker;Fair;Sedentary;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+97;Soorya M K;Male;19;2;Non-Smoker;Good;Active;High;Moderate;Never;Moderate;No;No;No;No;Never;No;No;No;Never
+98;Pranav Ranjan ;Male;18;2;Non-Smoker;Fair;Moderate;Moderate;High;Never;Unhealthy;No;No;No;No;Weekly;No;No;No;Never
+99;Vanjarapu Pravallika ;Female;19;2;Non-Smoker;Poor;Sedentary;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;Yes;Maybe;No;Never
+100;Thorani;Female;18;2;Non-Smoker;Fair;Moderate;Moderate;Moderate;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
+101;Arulrithik V;Male;18;2;Non-Smoker;Fair;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Weekly;No;Maybe;No;Rarely
+102;Kodadhala sanjay;Male;19;2;Non-Smoker;Good;Active;Moderate;Moderate;Never;Healthy;No;No;No;No;Weekly;Yes;Maybe;No;Never
+103;Yashashwini;Female;38;11;Non-Smoker;Good;Moderate;Moderate;High;Never;Moderate;No;No;No;No;Weekly;No;No;No;Rarely
